@@ -1,0 +1,14 @@
+layout_spectrum: 0.473314736969769
+typography_spectrum: 0.8532068582717329
+color:
+  brandStrength: 0.2395010283216834
+  lightness: 0.1798373032361269
+  saturation: 0.30756939575076103
+  rhythmicContrast: 0.2869047964923084
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: federicosolazzo.com
