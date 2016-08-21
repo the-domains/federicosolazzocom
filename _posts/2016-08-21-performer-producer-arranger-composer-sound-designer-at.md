@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-21T19:01:14.229Z'
+datePublished: '2016-08-21T19:24:47.577Z'
 sourcePath: _posts/2016-08-21-performer-producer-arranger-composer-sound-designer-at.md
 author: []
 via: {}
-dateModified: '2016-08-21T19:01:04.979Z'
+dateModified: '2016-08-21T19:24:46.770Z'
 title: ''
 publisher: {}
 description: >-
