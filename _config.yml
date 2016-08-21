@@ -12,9 +12,5 @@ color:
     - '#9E9079'
 layout_spectrum: 0.626745707821101
 name: federicosolazzo
-navigation:
-  - name: Agenda
-    id: ff55bb2f-9afb-481b-b627-28d61669beb3
-    type: content
 title: Federico Solazzo
 description: sound designer composer
