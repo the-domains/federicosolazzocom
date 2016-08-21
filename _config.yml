@@ -12,3 +12,7 @@ color:
     - '#FDC588'
     - '#9E9079'
 name: federicosolazzo.com
+navigation:
+  - name: Bio
+    id: fc2c7dca-f686-4bb6-9bbe-eb719b2fb155
+    type: content
