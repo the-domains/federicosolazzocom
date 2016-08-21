@@ -1,4 +1,3 @@
-layout_spectrum: 0.626745707821101
 typography_spectrum: 0.1392319849692285
 color:
   brandStrength: 0.2395010283216834
@@ -11,6 +10,7 @@ color:
     - '#A83983'
     - '#FDC588'
     - '#9E9079'
+layout_spectrum: 0.626745707821101
 name: federicosolazzo.com
 navigation:
   - name: Bio
@@ -19,3 +19,4 @@ navigation:
   - name: Agenda
     id: ff55bb2f-9afb-481b-b627-28d61669beb3
     type: content
+title: Federico Solazzo
