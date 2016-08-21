@@ -1,4 +1,11 @@
 ---
+datePublished: '2016-08-21T09:33:41.007Z'
+sourcePath: _posts/2016-08-21-performer-producer-arranger-composer-sound-designer-at.md
+author: []
+via: {}
+dateModified: '2016-08-21T09:33:40.454Z'
+title: ''
+publisher: {}
 description: >-
   Performer, producer, arranger, composer, sound designer: at the moment, he’s
   playing along (as keyboardist, musical director and programmer) with Italian
@@ -35,20 +42,15 @@ description: >-
   Kwak), his favourites books are “Alice’s Adventures in Wonderland” by L.
   Carroll, “Notes from Underground” by F. Dostoyevsky and “The Art of Being
   Happy” by A. Schopenhauer.
-dateModified: '2016-08-21T09:32:39.647Z'
-datePublished: '2016-08-21T09:32:41.349Z'
-title: ''
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-21-performer-producer-arranger-composer-sound-designer-at.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc9ca54f-191c-4aec-974c-0a27ba498a28.jpg)
+
 Performer, producer, arranger, composer, sound designer: at the moment, he's playing along (as keyboardist, musical director and programmer) with Italian pop-star Alexia, whom he supported during her tours in Italy, China, Brazil, Finland, Estonia, Switzerland, Albania, Poland and Slovenia and with the band of the amazing Jamal Thomas (US, Maceo Parker's drummer).  
   
 He's been endorsed by Nord Keyboards (Clavia DMI AB) since 2008 and since 2013 he's also alpha/beta testing and sound designing for them. He moved to the Netherlands in 2011 where he also had the opportunity to improve his sound designer skills by studying Sonology with Masters like Kees Tazelaar and Joel Ryan (San Francisco) at the Koninklijk Conservatorium in Den Haag and by meeting the modular synthesis guru Roland Kuit.  
