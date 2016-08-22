@@ -46,9 +46,9 @@ metadata:
     favourites books are “Alice’s Adventures in Wonderland” by L. Carroll,
     “Notes from Underground” by F. Dostoyevsky and “The Art of Being Happy” by
     A. Schopenhauer.
-dateModified: '2016-08-21T19:33:57.989Z'
+dateModified: '2016-08-22T11:24:41.632Z'
 title: ''
-datePublished: '2016-08-21T19:33:58.896Z'
+datePublished: '2016-08-22T11:24:42.095Z'
 author: []
 description: >-
   Performer, producer, arranger, composer, sound designer: at the moment, he’s
@@ -88,8 +88,8 @@ description: >-
   Schopenhauer.
 publisher: {}
 via: {}
-starred: true
 sourcePath: _posts/2016-08-21-performer-producer-arranger-composer-sound-designer-at.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
